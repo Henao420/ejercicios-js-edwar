@@ -5,5 +5,6 @@ let numeros = [15, 3, 78, 45, 92, 6, 33, 21, 54, 88, 12, 67, 9, 100, 41, 28, 73,
 let numeroMayor = Math.max(...numeros);
 let numeroMenor = Math.min(...numeros);
 
+console.log("Numeros del arreglo: ", numeros);
 console.log("Numero mayor: ", numeroMayor);
 console.log("Numero menor: ", numeroMenor);
